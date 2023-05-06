@@ -1,4 +1,6 @@
-# File Compressor using Huffman Script in Python with GUI
+# File Compressor using Huffman Script in Python with GUI by 
+## Developers: [BugRuster](https://github.com/BugRuster) and [Cepheidloom](https://github.com/Cepheidloom)
+
 This repository contains a Python script for compressing files using Huffman encoding algorithm. The script also features a graphical user interface (GUI) to make it easier to use.
 
 # Table of Contents
